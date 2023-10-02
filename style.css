@@ -1,0 +1,34 @@
+html {
+    background-color: darkgrey;
+    font-family:'Outfit', sans-serif;
+}
+
+p {
+    font-size: 25px;
+    opacity: 50%;
+}
+
+.container {
+    background-color: white;
+    border-radius: 35px;
+    width: 650px;
+    height: 950px;
+    text-align: center;
+    margin: 250px auto 250px auto
+}
+
+img {
+    width: 550px;
+    height: 550px;
+    border-radius: 30px;
+    margin-top: 15px;
+}
+
+div h2 {
+    text-align: center;    
+}
+
+.abajo {
+    text-align: center;
+}
+
